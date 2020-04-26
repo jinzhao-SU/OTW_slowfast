@@ -1,0 +1,104 @@
+item {
+  name: "bicycle"
+  id: 1
+}
+item {
+  name: "person"
+  id: 2
+}
+item {
+  name: "dismounting bike"
+  id: 3
+}
+item {
+  name: "car"
+  id: 4
+}
+item {
+  name: "loading vehicle"
+  id: 5
+}
+item {
+  name: "unloading vehicle"
+  id: 6
+}
+item {
+  name: "carrying (small)"
+  id: 7
+}
+item {
+  name: "opening trunk"
+  id: 8
+}
+item {
+  name: "truck"
+  id: 9
+}
+item {
+  name: "carrying (large)"
+  id: 10
+}
+item {
+  name: "closing trunk"
+  id: 11
+}
+item {
+  name: "opening door"
+  id: 12
+}
+item {
+  name: "texting on phone"
+  id: 13
+}
+item {
+  name: "closing door"
+  id: 14
+}
+item {
+  name: "cell phone"
+  id: 15
+}
+item {
+  name: "exiting"
+  id: 16
+}
+item {
+  name: "entering"
+  id: 17
+}
+item {
+  name: "light object"
+  id: 18
+}
+item {
+  name: "mounting bike"
+  id: 19
+}
+item {
+  name: "riding bike"
+  id: 20
+}
+item {
+  name: "motorcycle/scooter"
+  id: 21
+}
+item {
+  name: "conversation"
+  id: 22
+}
+item {
+  name: "talking on phone"
+  id: 23
+}
+item {
+  name: "heavy object"
+  id: 24
+}
+item {
+  name: "pushing cart"
+  id: 25
+}
+item {
+  name: "wheeled cart"
+  id: 26
+}
